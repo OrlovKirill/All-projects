@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Chisla 2.0\Chisla 2.0\bin\Debug\Chisla 2.0.exe.config
+C:\Users\orlov\Desktop\Chisla 2.0\Chisla 2.0\bin\Debug\Chisla 2.0.exe
+C:\Users\orlov\Desktop\Chisla 2.0\Chisla 2.0\bin\Debug\Chisla 2.0.pdb
+C:\Users\orlov\Desktop\Chisla 2.0\Chisla 2.0\obj\Debug\Chisla 2.0.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Chisla 2.0\Chisla 2.0\obj\Debug\Chisla 2.0.exe
+C:\Users\orlov\Desktop\Chisla 2.0\Chisla 2.0\obj\Debug\Chisla 2.0.pdb

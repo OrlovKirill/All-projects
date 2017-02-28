@@ -1,0 +1,60 @@
+C:\Users\orlov\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\orlov\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\orlov\Desktop\Dictionary — копия\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\orlov\Desktop\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.pdb
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.exe.config
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.exe
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.pdb
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.exe
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.pdb
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.Form1.resources
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\01.11.2016\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.exe
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.pdb
+D:\Coding\C#\Dictionary в отдельном классе — копия\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Coding\C#\Dictionary в отдельном классе — копия\Dictionary\obj\Debug\Dictionary.exe
+D:\Coding\C#\Dictionary в отдельном классе — копия\Dictionary\obj\Debug\Dictionary.pdb
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.exe
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\bin\Debug\Dictionary.pdb
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.Form1.resources
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\Coding\C#\Dictionary в отдельном классе\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\13.12.2016\Анаграммы\Dictionary\bin\Debug\Dictionary.exe.config
+E:\13.12.2016\Анаграммы\Dictionary\obj\Debug\Dictionary.exe
+E:\13.12.2016\Анаграммы\Dictionary\obj\Debug\Dictionary.pdb
+E:\13.12.2016\Анаграммы\Dictionary\bin\Debug\Dictionary.exe
+E:\13.12.2016\Анаграммы\Dictionary\bin\Debug\Dictionary.pdb
+E:\13.12.2016\Анаграммы\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\13.12.2016\Анаграммы\Dictionary\obj\Debug\Dictionary.Form1.resources
+E:\13.12.2016\Анаграммы\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\13.12.2016\Анаграммы\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Anagrams\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\orlov\Desktop\Anagrams\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Anagrams\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Anagrams\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Anagrams\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\orlov\Desktop\Anagrams\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\orlov\Desktop\Anagrams\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Anagrams\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Anagrams\Dictionary\obj\Debug\Dictionary.pdb

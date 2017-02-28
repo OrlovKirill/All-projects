@@ -1,0 +1,15 @@
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\bin\Debug\Fathers_Work.exe.config
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\bin\Debug\Fathers_Work.exe
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\bin\Debug\Fathers_Work.pdb
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.Properties.Resources.resources
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.exe
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.pdb
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\bin\Debug\asa-TZ\Fathers_Work.resources.dll
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\bin\Debug\lkt-US\Fathers_Work.resources.dll
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\asa-TZ\Fathers_Work.resources.dll
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\lkt-US\Fathers_Work.resources.dll
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.Form1.resources
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.Form1.asa-TZ.resources
+C:\Users\orlov\Desktop\Fathers_Work\Fathers_Work\obj\Debug\Fathers_Work.Form1.lkt-US.resources

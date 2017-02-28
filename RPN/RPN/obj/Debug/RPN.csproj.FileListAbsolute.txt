@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\RPN\RPN\bin\Debug\RPN.exe.config
+C:\Users\orlov\Desktop\RPN\RPN\bin\Debug\RPN.exe
+C:\Users\orlov\Desktop\RPN\RPN\bin\Debug\RPN.pdb
+C:\Users\orlov\Desktop\RPN\RPN\obj\Debug\RPN.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\RPN\RPN\obj\Debug\RPN.exe
+C:\Users\orlov\Desktop\RPN\RPN\obj\Debug\RPN.pdb

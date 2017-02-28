@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\orlov\Desktop\Labirint\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\orlov\Desktop\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\orlov\Desktop\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\orlov\Desktop\Labirint\Labirint\obj\Debug\Labirint.pdb

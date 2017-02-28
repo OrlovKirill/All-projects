@@ -1,0 +1,12 @@
+C:\Users\orlov\Desktop\AVL - TREE\AVL - TREE\bin\Debug\AVL - TREE.exe.config
+C:\Users\orlov\Desktop\AVL - TREE\AVL - TREE\bin\Debug\AVL - TREE.exe
+C:\Users\orlov\Desktop\AVL - TREE\AVL - TREE\bin\Debug\AVL - TREE.pdb
+C:\Users\orlov\Desktop\AVL - TREE\AVL - TREE\obj\Debug\AVL - TREE.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\AVL - TREE\AVL - TREE\obj\Debug\AVL - TREE.exe
+C:\Users\orlov\Desktop\AVL - TREE\AVL - TREE\obj\Debug\AVL - TREE.pdb
+D:\Учёба\Программирование\C#\AVL - TREE\AVL - TREE\bin\Debug\AVL - TREE.exe.config
+D:\Учёба\Программирование\C#\AVL - TREE\AVL - TREE\bin\Debug\AVL - TREE.exe
+D:\Учёба\Программирование\C#\AVL - TREE\AVL - TREE\bin\Debug\AVL - TREE.pdb
+D:\Учёба\Программирование\C#\AVL - TREE\AVL - TREE\obj\Debug\AVL - TREE.csprojResolveAssemblyReference.cache
+D:\Учёба\Программирование\C#\AVL - TREE\AVL - TREE\obj\Debug\AVL - TREE.exe
+D:\Учёба\Программирование\C#\AVL - TREE\AVL - TREE\obj\Debug\AVL - TREE.pdb

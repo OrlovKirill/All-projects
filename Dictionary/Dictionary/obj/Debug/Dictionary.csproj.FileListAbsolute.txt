@@ -1,0 +1,9 @@
+C:\Users\orlov\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\orlov\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\orlov\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources

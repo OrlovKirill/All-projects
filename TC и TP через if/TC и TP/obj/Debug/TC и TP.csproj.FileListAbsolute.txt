@@ -1,0 +1,18 @@
+c:\users\orlov\documents\visual studio 2015\Projects\TC и TP\TC и TP\bin\Debug\TC и TP.exe.config
+c:\users\orlov\documents\visual studio 2015\Projects\TC и TP\TC и TP\bin\Debug\TC и TP.exe
+c:\users\orlov\documents\visual studio 2015\Projects\TC и TP\TC и TP\bin\Debug\TC и TP.pdb
+c:\users\orlov\documents\visual studio 2015\Projects\TC и TP\TC и TP\obj\Debug\TC и TP.csprojResolveAssemblyReference.cache
+c:\users\orlov\documents\visual studio 2015\Projects\TC и TP\TC и TP\obj\Debug\TC и TP.exe
+c:\users\orlov\documents\visual studio 2015\Projects\TC и TP\TC и TP\obj\Debug\TC и TP.pdb
+C:\Users\orlov\Desktop\TC и TP\TC и TP\bin\Debug\TC и TP.exe.config
+C:\Users\orlov\Desktop\TC и TP\TC и TP\bin\Debug\TC и TP.exe
+C:\Users\orlov\Desktop\TC и TP\TC и TP\bin\Debug\TC и TP.pdb
+C:\Users\orlov\Desktop\TC и TP\TC и TP\obj\Debug\TC и TP.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\TC и TP\TC и TP\obj\Debug\TC и TP.exe
+C:\Users\orlov\Desktop\TC и TP\TC и TP\obj\Debug\TC и TP.pdb
+C:\Users\orlov\Desktop\TC и TP через if\TC и TP\bin\Debug\TC и TP.exe.config
+C:\Users\orlov\Desktop\TC и TP через if\TC и TP\obj\Debug\TC и TP.exe
+C:\Users\orlov\Desktop\TC и TP через if\TC и TP\obj\Debug\TC и TP.pdb
+C:\Users\orlov\Desktop\TC и TP через if\TC и TP\bin\Debug\TC и TP.exe
+C:\Users\orlov\Desktop\TC и TP через if\TC и TP\bin\Debug\TC и TP.pdb
+C:\Users\orlov\Desktop\TC и TP через if\TC и TP\obj\Debug\TC и TP.csprojResolveAssemblyReference.cache

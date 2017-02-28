@@ -1,0 +1,13 @@
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Graphic_Of_Shifts (Cross-Platform).dll
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Graphic_Of_Shifts (Cross-Platform).pdb
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\obj\Debug\Graphic_Of_Shifts (Cross-Platform).csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\obj\Debug\Graphic_Of_Shifts (Cross-Platform).dll
+C:\Users\orlov\Desktop\Graphic_Of_Shifts (Cross-Platform)\Graphic_Of_Shifts (Cross-Platform)\obj\Debug\Graphic_Of_Shifts (Cross-Platform).pdb

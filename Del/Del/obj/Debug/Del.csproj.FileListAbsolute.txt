@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Del\Del\bin\Debug\Del.exe.config
+C:\Users\orlov\Desktop\Del\Del\obj\Debug\Del.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Del\Del\bin\Debug\Del.exe
+C:\Users\orlov\Desktop\Del\Del\bin\Debug\Del.pdb
+C:\Users\orlov\Desktop\Del\Del\obj\Debug\Del.exe
+C:\Users\orlov\Desktop\Del\Del\obj\Debug\Del.pdb

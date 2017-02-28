@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Class Dictionary\Class Dictionary\bin\Debug\Class Dictionary.exe.config
+C:\Users\orlov\Desktop\Class Dictionary\Class Dictionary\bin\Debug\Class Dictionary.exe
+C:\Users\orlov\Desktop\Class Dictionary\Class Dictionary\bin\Debug\Class Dictionary.pdb
+C:\Users\orlov\Desktop\Class Dictionary\Class Dictionary\obj\Debug\Class Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Class Dictionary\Class Dictionary\obj\Debug\Class Dictionary.exe
+C:\Users\orlov\Desktop\Class Dictionary\Class Dictionary\obj\Debug\Class Dictionary.pdb

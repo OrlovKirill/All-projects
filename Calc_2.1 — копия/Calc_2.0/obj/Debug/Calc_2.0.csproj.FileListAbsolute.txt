@@ -1,0 +1,45 @@
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.exe.config
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.exe
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.pdb
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\obj\Debug\Calc_2._0.Form1.resources
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\obj\Debug\Calc_2._0.Properties.Resources.resources
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.exe
+C:\Users\orlov\Desktop\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.pdb
+E:\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.exe.config
+E:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.exe
+E:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.pdb
+E:\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.exe
+E:\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.pdb
+E:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.csprojResolveAssemblyReference.cache
+E:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2._0.Form1.resources
+E:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2._0.Properties.Resources.resources
+E:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.csproj.GenerateResource.Cache
+F:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.csprojResolveAssemblyReference.cache
+F:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2._0.Form1.resources
+F:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2._0.Properties.Resources.resources
+F:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.csproj.GenerateResource.Cache
+F:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.exe
+F:\Calc_2.0\Calc_2.0\obj\Debug\Calc_2.0.pdb
+F:\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.exe.config
+F:\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.exe
+F:\Calc_2.0\Calc_2.0\bin\Debug\Calc_2.0.pdb
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\bin\Debug\Calc_2.0.exe.config
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\obj\Debug\Calc_2.0.exe
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\obj\Debug\Calc_2.0.pdb
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\bin\Debug\Calc_2.0.exe
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\bin\Debug\Calc_2.0.pdb
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\obj\Debug\Calc_2.0.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\obj\Debug\Calc_2._0.Form1.resources
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\obj\Debug\Calc_2._0.Properties.Resources.resources
+C:\Users\orlov\Desktop\Calc_2.1\Calc_2.0\obj\Debug\Calc_2.0.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\bin\Debug\Calc_2.0.exe.config
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\obj\Debug\Calc_2.0.exe
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\obj\Debug\Calc_2.0.pdb
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\obj\Debug\Calc_2.0.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\obj\Debug\Calc_2._0.Form1.resources
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\obj\Debug\Calc_2._0.Properties.Resources.resources
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\obj\Debug\Calc_2.0.csproj.GenerateResource.Cache
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\bin\Debug\Calc_2.0.exe
+C:\Users\orlov\Desktop\Calc_2.1 — копия\Calc_2.0\bin\Debug\Calc_2.0.pdb

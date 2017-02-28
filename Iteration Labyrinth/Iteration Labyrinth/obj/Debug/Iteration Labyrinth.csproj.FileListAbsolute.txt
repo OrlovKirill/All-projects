@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Iteration Labyrinth\Iteration Labyrinth\bin\Debug\Iteration Labyrinth.exe.config
+C:\Users\orlov\Desktop\Iteration Labyrinth\Iteration Labyrinth\obj\Debug\Iteration Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Iteration Labyrinth\Iteration Labyrinth\bin\Debug\Iteration Labyrinth.exe
+C:\Users\orlov\Desktop\Iteration Labyrinth\Iteration Labyrinth\bin\Debug\Iteration Labyrinth.pdb
+C:\Users\orlov\Desktop\Iteration Labyrinth\Iteration Labyrinth\obj\Debug\Iteration Labyrinth.exe
+C:\Users\orlov\Desktop\Iteration Labyrinth\Iteration Labyrinth\obj\Debug\Iteration Labyrinth.pdb

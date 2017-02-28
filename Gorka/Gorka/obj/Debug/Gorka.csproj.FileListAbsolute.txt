@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Gorka\Gorka\bin\Debug\Gorka.exe.config
+C:\Users\orlov\Desktop\Gorka\Gorka\bin\Debug\Gorka.exe
+C:\Users\orlov\Desktop\Gorka\Gorka\bin\Debug\Gorka.pdb
+C:\Users\orlov\Desktop\Gorka\Gorka\obj\Debug\Gorka.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Gorka\Gorka\obj\Debug\Gorka.exe
+C:\Users\orlov\Desktop\Gorka\Gorka\obj\Debug\Gorka.pdb

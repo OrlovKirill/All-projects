@@ -1,0 +1,6 @@
+C:\Users\orlov\Desktop\Perestanovki (Recursion)\Perestanovki (Recursion)\bin\Debug\Perestanovki (Recursion).exe.config
+C:\Users\orlov\Desktop\Perestanovki (Recursion)\Perestanovki (Recursion)\bin\Debug\Perestanovki (Recursion).exe
+C:\Users\orlov\Desktop\Perestanovki (Recursion)\Perestanovki (Recursion)\bin\Debug\Perestanovki (Recursion).pdb
+C:\Users\orlov\Desktop\Perestanovki (Recursion)\Perestanovki (Recursion)\obj\Debug\Perestanovki (Recursion).csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Perestanovki (Recursion)\Perestanovki (Recursion)\obj\Debug\Perestanovki (Recursion).exe
+C:\Users\orlov\Desktop\Perestanovki (Recursion)\Perestanovki (Recursion)\obj\Debug\Perestanovki (Recursion).pdb

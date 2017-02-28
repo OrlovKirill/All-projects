@@ -1,0 +1,12 @@
+C:\Users\orlov\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\orlov\Desktop\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\orlov\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\orlov\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\orlov\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Coding\C#\Поиск кратчайшего выхода из лабиринта\Lab2\bin\Debug\Lab2.exe.config
+D:\Coding\C#\Поиск кратчайшего выхода из лабиринта\Lab2\bin\Debug\Lab2.exe
+D:\Coding\C#\Поиск кратчайшего выхода из лабиринта\Lab2\bin\Debug\Lab2.pdb
+D:\Coding\C#\Поиск кратчайшего выхода из лабиринта\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Поиск кратчайшего выхода из лабиринта\Lab2\obj\Debug\Lab2.exe
+D:\Coding\C#\Поиск кратчайшего выхода из лабиринта\Lab2\obj\Debug\Lab2.pdb

@@ -1,0 +1,12 @@
+C:\Users\orlov\Desktop\Perestanovki\Perestanovki\bin\Debug\Perestanovki.exe.config
+C:\Users\orlov\Desktop\Perestanovki\Perestanovki\bin\Debug\Perestanovki.exe
+C:\Users\orlov\Desktop\Perestanovki\Perestanovki\bin\Debug\Perestanovki.pdb
+C:\Users\orlov\Desktop\Perestanovki\Perestanovki\obj\Debug\Perestanovki.csprojResolveAssemblyReference.cache
+C:\Users\orlov\Desktop\Perestanovki\Perestanovki\obj\Debug\Perestanovki.exe
+C:\Users\orlov\Desktop\Perestanovki\Perestanovki\obj\Debug\Perestanovki.pdb
+C:\Users\orlov\Desktop\Perestanovki (Iteratoin)\Perestanovki\bin\Debug\Perestanovki.exe.config
+C:\Users\orlov\Desktop\Perestanovki (Iteratoin)\Perestanovki\obj\Debug\Perestanovki.exe
+C:\Users\orlov\Desktop\Perestanovki (Iteratoin)\Perestanovki\obj\Debug\Perestanovki.pdb
+C:\Users\orlov\Desktop\Perestanovki (Iteratoin)\Perestanovki\bin\Debug\Perestanovki.exe
+C:\Users\orlov\Desktop\Perestanovki (Iteratoin)\Perestanovki\bin\Debug\Perestanovki.pdb
+C:\Users\orlov\Desktop\Perestanovki (Iteratoin)\Perestanovki\obj\Debug\Perestanovki.csprojResolveAssemblyReference.cache
