@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <login />
+  <password />
+  <cMainWin>0</cMainWin>
+  <cExpl>0</cExpl>
+  <cStrPath>0</cStrPath>
+  <cButns>0</cButns>
+  <fExpl>(отсутствует)</fExpl>
+  <fStrPath>(отсутствует)</fStrPath>
+  <fButns>(отсутствует)</fButns>
+  <fcExpl>0</fcExpl>
+  <fcStrPath>0</fcStrPath>
+  <fcButns>0</fcButns>
+</Settings>

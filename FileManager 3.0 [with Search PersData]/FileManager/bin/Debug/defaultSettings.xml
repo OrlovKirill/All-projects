@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <login />
+  <password />
+  <cMainWin>-1</cMainWin>
+  <cExpl>-16777216</cExpl>
+  <cStrPath>-1</cStrPath>
+  <cButns>-657931</cButns>
+  <fExpl>Microsoft Sans Serif; 15pt</fExpl>
+  <fStrPath>Microsoft YaHei; 15pt</fStrPath>
+  <fButns>MS PGothic; 4mm; style=Bold</fButns>
+  <fcExpl>-256</fcExpl>
+  <fcStrPath>-11861886</fcStrPath>
+  <fcButns>-16777216</fcButns>
+</Settings>

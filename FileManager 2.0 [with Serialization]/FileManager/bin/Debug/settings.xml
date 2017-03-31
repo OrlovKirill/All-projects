@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <login>VASYA</login>
+  <password>123456789987654321</password>
+  <cMainWin>-65536</cMainWin>
+  <cExpl>0</cExpl>
+  <cStrPath>0</cStrPath>
+  <cButns>0</cButns>
+  <fExpl>Microsoft Sans Serif; 8,25pt</fExpl>
+  <fStrPath>Microsoft Sans Serif; 8,25pt</fStrPath>
+  <fButns>Microsoft Sans Serif; 8,25pt</fButns>
+  <fcExpl>0</fcExpl>
+  <fcStrPath>0</fcStrPath>
+  <fcButns>0</fcButns>
+</Settings>
